@@ -1,7 +1,7 @@
 # MacPorts – Package Manager for Open Source Software on macOS
 
 <div align="center">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/MacPorts_Logo.svg/1024px-MacPorts_Logo.svg.png" alt="MacPorts Logo" width="256" height="256">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/MacPorts_Logo.svg/1024px-MacPorts_Logo.svg.png" alt="MacPorts Logo" width="500" height="500">  
 </div>  
 
 <div align="center">  
